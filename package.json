@@ -1,6 +1,7 @@
 {
   "name": "nebula",
   "displayName": "nebula",
+  "publisher": "star-zi",
   "description": "A theme for star-zi.",
   "version": "0.0.1",
   "engines": {

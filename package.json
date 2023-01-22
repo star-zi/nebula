@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.74.0"
   },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/star-zi/nebula.git"
+  },
   "categories": [
     "Themes"
   ],
